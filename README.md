@@ -68,9 +68,12 @@ i) # To find the maximum of marks using the list method sort.
 ![image](https://github.com/Pragadeeswaran-bit/FindMaximum/assets/147473828/22460f54-cb0b-4558-bf55-f4edd004e430)
 
 ii) # To find the maximum marks using the list method max().
-![Output](max_method-output.png)
+![image](https://github.com/Pragadeeswaran-bit/FindMaximum/assets/147473828/a7a90ced-e906-4cd0-b98e-ebfc16e24639)
+
 iii) # To find the maximum marks without using builtin functions.
-![Output](without_built-in_func-output.png)
+![image](https://github.com/Pragadeeswaran-bit/FindMaximum/assets/147473828/b6fed357-3ac8-468d-9070-1264b4ad6f08)
+
+
 
 ## Result:
 
